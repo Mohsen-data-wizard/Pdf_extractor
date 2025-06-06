@@ -1,0 +1,14 @@
+{
+  "confidence_threshold": 0.35,
+  "dpi": 300,
+  "languages": {
+    "fa": true,
+    "en": true,
+    "ar": true
+  },
+  "theme": "light",
+  "auto_save": true,
+  "learning_enabled": true,
+  "created_at": "2025-06-05",
+  "version": "2.0"
+}
